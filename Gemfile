@@ -41,3 +41,6 @@ gem 'spring',        group: :development
 # use twitter-bootstrap-rails 
 gem 'twitter-bootstrap-rails'
 gem 'less-rails'
+
+# enable all platform features
+gem 'rails_12factor'
