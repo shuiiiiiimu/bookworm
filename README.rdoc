@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+BookWorm, in order to book friendly.
 
 Things you may want to cover:
 
@@ -23,6 +22,8 @@ Things you may want to cover:
 
 * ...
 
+== Contact
+email: zhangshuimu123@gmail.com
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
