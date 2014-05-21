@@ -1,7 +1,7 @@
 class HomeController < ApplicationController
 
   def index
-  	puts '---------------HomeController----------------'
+  	puts '---------------------------------HomeController-----------------------------------'
   end
 
 end
